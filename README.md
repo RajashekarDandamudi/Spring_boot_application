@@ -54,4 +54,4 @@
 
 # Then go to the browser and check that application is available in the mapped system port(8090)
   * http://publicip:8090
-    Application successfully deployed in the container
+    Application successfully deployed
